@@ -1,0 +1,1 @@
+export {default as bread} from '../Breadcrumb/mbx.vue'
